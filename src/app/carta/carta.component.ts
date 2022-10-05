@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./carta.component.css']
 })
 export class CartaComponent implements OnInit {
-  public img:string="https://as01.epimg.net/meristation/imagenes/2022/07/21/noticias/1658389050_817312_1658389673_noticia_normal.jpg";
+  public img:string="https://www.sccnewsbyte.co.uk/wp-content/uploads/2020/08/securitythumbnail400x400.png";
   public Titulo:string="Galeria Fotos";
   constructor() { }
 
